@@ -1,0 +1,25 @@
+1 creat a table with 4 heading and 4 calums with random data in 2 rows
+2 desine it with year prefered color 
+
+
+<table style="color:blue">
+<thead>
+
+<th>name</th>
+<th>class</th>
+<th>roll</th>
+<th>bangla</th>
+
+</thead>
+<tbody>
+
+<tr>
+
+<td>name</td>
+<td>satdoha</td>
+<td>magura</td>
+<td>4</td>
+
+</tr>
+</tbody>
+</table>

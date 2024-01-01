@@ -1,0 +1,119 @@
+*{
+
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+list-style: none;
+text-decoration: none;
+padding: 0;
+margin: 0;
+
+}
+
+
+nav{
+    background-color: brown;
+}
+
+.logo{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-size: 70px;
+    margin-left: 40px;
+}  
+
+.logo b a{
+
+    color: black;
+}
+
+.logo b a{
+
+    color: blue!important;
+}
+
+
+nav ul{
+    float: right;
+    margin-top: 20px;
+}
+
+nav ul li{
+     display: inline-block;
+     margin-right: 30px;
+     font-size: 20px;
+
+}
+
+nav ul li a{
+    color: rgb(240, 255, 240);
+    padding:10px;
+}
+ 
+nav ul li a:hover{
+    padding: 8px;
+    border-radius: 5px;
+    background-color: black;
+    color: aqua;
+}
+
+a:hover{
+    text-decoration:none
+}
+
+
+.hero-title{
+    margin-top: 150px;
+}
+
+.hero-border{
+    border: 3px solid gold;
+}
+
+    .seemore{
+        color: greenyellow;
+        padding: 2px;
+    }
+    
+    .seemore:hover{
+        text-decoration: none;
+        color: blueviolet;
+        background-color: aqua;
+    }
+    .footer{
+        border: 3px solid violet;
+    }
+    .footer ul li{
+        color: white;
+    }
+.footer ul li a{
+    color: green;
+}
+
+
+.cat{
+    margin: 0;
+    position: absolute;
+    background-color: aquamarine;
+    display: none;
+}
+.cat li{
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid purple;
+}
+.cat li a{
+    color: black;
+}
+.dropdown:hover .cat{
+    display: block;
+}
+
+
+

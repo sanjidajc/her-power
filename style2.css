@@ -1,0 +1,56 @@
+
+*{    
+
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    
+    }
+
+
+nav{
+
+background-color: aqua;
+height: 70px;
+}
+
+
+.logo{
+font-size: 50px;
+
+}
+
+.logo b a { color: black;}
+
+nav ul li a:hover{ 
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgb(106, 106, 161);
+    color: bisque;
+}
+nav ul li {   
+             color: aliceblue;
+              padding: 8px;
+}
+
+nav ul li{  
+           display: inline-block;
+           font-size: 20px;
+
+}
+nav ul{  float: right;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

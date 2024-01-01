@@ -1,0 +1,47 @@
+body{
+    background-image: url(flowerbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+}
+
+
+
+
+table,th,td{
+border:2px solid red;
+border-collapse: collapse;
+}
+
+       
+        *{
+            margin-left: 20px;
+        }
+        .heading{
+            margin-top: 20px;
+            background-color: blueviolet;
+
+        }
+
+        h1, h3{
+            border-bottom: 5px solid rgb(0, 255, 34);
+            border-radius: 15px;
+        }
+
+        .class3{
+color: brown;
+background-color: blueviolet;
+
+        }
+
+        .table{
+            color: blueviolet;
+        }
+       .edu{
+        color: brown;
+        background-color: blueviolet;
+       }
+a{padding-top: 20px;
+  background-color: aquamarines;
+
+}
